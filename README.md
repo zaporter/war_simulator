@@ -16,6 +16,6 @@ Probability that player1 will win: 0.4955
 
 Similarly, we can create the following histogram for the number of rounds to expect to play for a game:
 
-![histogram](https://github.com/zaporter/war_simulator/rounds_dist.png)
+![histogram](https://github.com/zaporter/war_simulator/blob/master/rounds_dist.png)
 
 
